@@ -33,6 +33,13 @@ A Healthcare Booking System built using the MERN stack (MongoDB, Express.js, Rea
 
 ---
 
+### Screenshots
+
+![Healthcare Booking System image](./Screenshot1.png)
+![Healthcare Booking System image](./Screenshot2.png)
+![Healthcare Booking System image](./Screenshot3.png)
+![Healthcare Booking System image](./Screenshot4.png)
+
 ### Installation
 
 #### Prerequisites
